@@ -1,0 +1,16 @@
+body{
+    background-color:#b9bbbe;
+}
+
+#index-bg{
+    background-image: url("filmbg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+#welcome{
+    width: 500px;
+    height: 250px;
+    border: 0;
+}
